@@ -1,0 +1,48 @@
+fileFormatVersion: 2
+guid: 5d0f6b999d6c2cd4080a833ffe9375bb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors: []
+  warnings:
+  - Tileset '1 Exterior Ground ' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset '2 Interior ground + bricks' is an embedded tileset. Exported tilesets
+    are preferred.
+  - Tileset 'Doors and windows' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'Furniture 1 new' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'Furniture 2' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'Furniture 4' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'Loot' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'Furniture 3 (2)' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'Furniture and entrance' is an embedded tileset. Exported tilesets are
+    preferred.
+  - Tileset '360_F_247228043_eNXkq3rHjZiBsfQXFTHKMjBh9W0Vo4cI' is an embedded tileset.
+    Exported tilesets are preferred.
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 26
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 4422
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets:
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
